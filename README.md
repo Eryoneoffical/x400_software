@@ -1,7 +1,9 @@
 
+### The latest version is here: https://gitcode.com/xpp012/KlipperScreen
+
+
+
 Welcome, this is the Klipper and Screen Software of Eryone Thinker X400 3D printer
-
-
 
 
 ### How to Upgrade?
